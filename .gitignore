@@ -1,0 +1,14 @@
+# Local credentials and vault files - NEVER commit
+auth.json
+auth.*.json
+seat-account.txt
+.codex-auth-vault/
+.staging-*/
+.probe-*/
+
+# OS / editor noise
+*.lnk
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
